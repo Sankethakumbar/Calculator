@@ -1,0 +1,27 @@
+#Calculator{
+    border:3px solid whitesmoke; 
+    text-align: center;
+    padding: 3px;
+    border-radius: 5px;
+    width: 300px;
+    background-color: rgb(200, 188, 219);
+
+}
+#display{
+    width: 200px;
+    margin: 10px;
+    font-size: 30px;
+}
+.b{
+    margin: 2px;
+    width: 35px;
+    height: 35px;
+   
+    
+}
+.button-enter{
+    margin: 2px;
+    width: 79px;
+    height: 35px;
+}
+
